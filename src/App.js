@@ -15,7 +15,7 @@ function App() {
         src="https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=400"
         prag="loreum10 loreum10loreum10loreum10loreum10loreum10loreum10loreum10"
         />
-       <Cards  title="Reactjs"
+       <Cards  title="Reactjs and express"
         src="https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=400"
         prag="loreum10 loreum10loreum10loreum10loreum10loreum10loreum10loreum10"
         />
